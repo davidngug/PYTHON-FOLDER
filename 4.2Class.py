@@ -1,9 +1,7 @@
-file=open('Egxample.txt','r')
-fil=file.read()
-print(len(fil))
+file=open('Egxample.txt')
 count=0
-for line in fil:
+for line in file:
     count=count+1
-    if fil.startswith(' by'):
-        print('found')
-        continue
+    if line.startswith('from: '):
+        print(line,count)
+        
