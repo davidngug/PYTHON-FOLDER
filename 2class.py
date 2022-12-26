@@ -21,7 +21,7 @@ print(b,6.0)
 b=b.capitalize()#Turns first letter to capital in variable
 print(b,7.0)
 print(b.lstrip(),8.0)#Removes space on left
-print(b.rstrip(),9.0)#removes space on right 
+print(b.rstrip(),9.0)#removes space on right, refer 4.2Class.py 
 print(b.strip(),10.0)#removes spaces generally infront nd back
 print(b.startswith(' fello'),11.0)#confirms variable starts with a specific str/int ( fello)
 print(b.endswith('there '),12.0)#confirms variable ends with a specific str/int (there )
