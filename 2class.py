@@ -33,5 +33,5 @@ print(b.endswith('f'),13.0)#EXAMPLE
 
 print(b.split(),14.0)#changes a group of strings to a list using spaces
 s=('willow;jayson;phillips')#EGXAMPLE
-print(b.split(';'))#Can be used to seperate a bunch of strings to list using [;] but specifying can use any even if its a [/][,][.]
+print(s.split(';'),15.0)#Can be used to seperate a bunch of strings to list using [;] but specifying can use any even if its a [/][,][.]
 quit()
