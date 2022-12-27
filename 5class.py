@@ -1,7 +1,6 @@
 filename=open('Egxample2.txt')
-filname=filename.read()
-for items in filname:
-    items=items.strip()
+for items in filename:
+    items=items.rstrip()
     if items.startswith('From '):
         items=items.upper()
         items=items.split()
