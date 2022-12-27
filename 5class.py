@@ -1,4 +1,5 @@
 filename=open('Egxample2.txt')
+count=0
 for items in filename:
     items=items.strip()
     if items.startswith('From '):
@@ -6,7 +7,13 @@ for items in filename:
         items=items.split()
         for item in items:
             if item.startswith('From ') or item.endswith('THU'):
-                print(items,'first stage')
-                if item.startswith('From ') or item.endswith('2008'):
-                    print(items,'Second stage')
+                print('.')
+            if item.endswith('17:18:23'):
+                count=count+1
+                items=str(items)
+                itemz=items.split(':')
+                ite=itemz[:4]
+                ite=str(ite)
+                
+                print(ite,'Second stage',count)
 quit()
