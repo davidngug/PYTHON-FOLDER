@@ -5,5 +5,5 @@ except:print('WRONG FILE NAME')
 for subject in fname:
     count=count+1
     if subject.startswith('subject'):
-        print('the number of subjects is',count)
+        print('the subject appears on line',count)
 quit()
