@@ -4,5 +4,8 @@ for items in filename:
     if items.startswith('From '):
         items=items.upper()
         items=items.split()
-        print(items)
+        for item in items:
+            if item.startswith('From ') or item.endswith('THU'):
+                if item.startswith('From ') or item.endswith('CWEN@IUPUI.EDU'):
+                    print(items,'firststage')
 quit()
