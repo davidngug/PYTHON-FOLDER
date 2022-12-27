@@ -4,5 +4,5 @@ print(len(F))
 f=F[20:500]
 print(f)
 for words in f:
-    if words.endswith(' letters'):
+    if words.endswith(' letters') :
         print('found it')
