@@ -11,5 +11,5 @@ for items in filename:
                 it=items[1]
                 it==list(it)
                 fm=it.split('@')  
-                print(it,'Second stage',count)
+                print(fm[0],'Second stage',count)
 quit()
