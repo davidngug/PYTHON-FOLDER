@@ -3,5 +3,9 @@ mpage=page.append(2)
 xpage=page.pop(5)
 print(page)
 forex={}
-forex.update({'one':'five','one love':'data'})
+forex['counter']=1
+forex['bima']=89
 print(forex)
+forex['counter']=forex['counter']+80
+print(forex)
+'counter' in forex
