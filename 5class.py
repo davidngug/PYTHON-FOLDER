@@ -9,7 +9,6 @@ for items in filename:
             if item.endswith('17:18:23'):
                 count=count+1
                 it=items[1]
-                it==list(it)
                 fm=it.split('@')  
                 print(fm[0],'Second stage',count)
 quit()
