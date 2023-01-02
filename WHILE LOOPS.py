@@ -1,6 +1,6 @@
 #LINE 3 CAN ALSO USE (WHILE TRUE:)
 x=2
-while x <=30: #WHILE IS USED FOR LOOPS
+while  x<=30: #WHILE IS USED FOR LOOPS
     print(x)
     x=x+5
     continue #PUSHES LOOPS TO THE START
