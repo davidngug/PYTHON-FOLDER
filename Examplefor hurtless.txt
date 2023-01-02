@@ -1,0 +1,108 @@
+4 examples of using big data in real life
+Healthcare
+Big data analytics in this sector can contribute, among others, to improving patient service, determining and implementing more effective ways of patient treatment, supporting clinical research, monitoring health care safety, creating systems ensuring management control, or counteracting epidemics and other threats. The last decade brought a tremendous advancement in the amount of data along with the ability to use technology to analyze that data and understand it. The world’s population is growing all the time and life expectancy is increasing, affecting rapid changes in treatments. Many of these decisions are dictated by data. The goal of today’s medicine is to get as much information about the patient as possible and detect the disease as soon as possible. Why? Prevention is better than the cure, obviously. 
+
+The popularity of smartphones and wearable devices is part of the revolution, as everyday technology can change our life and health for the better. Easily accessible applications monitor step count, diet progress, the quality of every night’s sleep, as well as blood pressure and breathing rate. Medical professionals can analyze gathered data and decide on future steps of treatment. Examples of big data in healthcare include opioid prevention based on the analysis of 742(!) risk factors, improving telemedicine, adjusting staffing according to patients’ inflow, and improving disease research & prediction.
+
+Sales & marketing
+The analysis of consumer behavior presents a whole new level of working with data. Thanks to information gathered from smart devices, armed with GPS technology, social media and other traces left by customers online (e.g. their purchase history or posted opinions), companies are now able to analyze the reactions of not only selected groups of customers but even specific individuals. The approach is called individualization and creating offers based on conclusions drawn from previous contacts of a given consumer with the brand – personalization. The most common use is product recommendation, providing a tailored experience in e-commerce, based on e.g. browsing history and customer behavior. Big data in marketing opens new possibilities to optimize the conversion rate, recognize the needs of user groups, improve the website’s usability and simplify purchasing processes. Drawing conclusions from mass data helps to improve customer engagement, retention, and loyalty.
+
+Automotive & transportation
+The automotive industry already adopted big data in several aspects. From manufacturing better elements and parts, to improving drivers’ safety, to enhancing car sales, data analysis is a useful tool. Car manufacturers like BMW benefit from the analysis of extensive data sets, including predictive maintenance, creating tailored customer solutions, and building cars of tomorrow using cutting-edge technology. At the verge of the autonomous cars’ era, automotive companies gather and process data from various devices, including GPS, onboard sensors and cameras. As for now, acquired data is mostly used in route planning, while the near future will bring a growing need for incorporating the data in training vehicles to operate on the streets. 
+
+Speaking of route planning, one of the most impressive use cases where data analysis enabled huge savings and optimizations is the implementation at UPS. The use of AI and big data significantly improved the global logistics network, leading to huge savings. The analysis of daily routines during parcel delivery enabled determining the most efficient paths, avoiding left turns affecting smooth rides. The result? Expected reduction of delivery miles by 100 million.
+
+So there’s cars and logistics, what about human transportation then? One of our projects consisted of customer behavior analysis for shared mobility services, based on – unsurprisingly – data and large amounts of it. Insights on the demand for vehicles in place and time give the company the ability to optimally distribute their assets, catering to the customer’s needs in the best possible way. With data-driven solutions, our client can streamline offered services, improve user experience and, eventually, reduce customer retention and boost revenue. 
+
+Cybersecurity
+Big data, thanks to its ability to quickly analyze large, diverse data sets, makes it possible to predict and prevent cyberattacks. Processing massive amounts of data allows anticipation of possible dangers and implementation of countermeasures before they become reality. Analysis of data enables quick threat detection and effective reduction of false alarms, recognizing deviations from normal activity. In this aspect, big data solutions are used by both governmental institutions and private sector entities. Federal agencies report significant decreases in security breaches due to the implementation of big data-based systems. Additionally, the number of malware and DDoS attacks, as well as insider threats has decreased since the technology gained popularity. 
+
+Where are we heading?
+Some examples of big data use are already considered risky, to say the least, or dead-ends. Luckily, we do not live the reality of the 2002 sci-fi movie “Minority report”. Ideas known from the movie remain a fantasy, and some early attempts to identify individuals “most likely to commit a crime” through computer-generated lists were regarded as too far-reaching profiling. On the brighter side, big data enables improving various aspects of life, bringing value to products and services.
+
+In the world, as we know it, amounts of data generated will continue to grow. In the digital era, data is our probably most valuable resource and product simultaneously. 
+
+big data Big data importance definition
+With over 4.5 billion people using the internet, of which over 90% hold mobile devices, mass production of data takes place constantly. The phenomenon of big data is also associated with some challenges, arising from the complexity, security, and privacy risks, as well as the need for new technologies and human skills. Companies and governmental institutions need to create a data science culture, incorporating it into their structures. As stated in the Capgemini report, Big & Fast Data: The Rise of Insight-Driven Business, as of now, only 27% of executives consider carried out big data initiatives as successful. In the data-driven world, only by preparing for widely adopted analysis and assessment, can entities achieve insight-led operations to remain relevant.
+
+Do you want to make use of the data your company produces and collects? Try our free consultations and see what can data do for you. 
+
+Join our small, but happy and loyal group of subscribers!
+We promise to share only relevant information and worthy insights from tech, biz and R&D.
+E-mail address
+Join
+Authors
+content marketing specialist
+Jowita Kessler
+CONTENT MARKETING SPECIALIST
+TAGS: AUTOMOTIVE, BIG DATA
+View all articles
+Join our small, but happy and loyal group of subscribers!
+E-mail address
+Join
+RELATED
+digital transformation health
+28/10/2021
+Digital transformation in healthcare
+ 
+min-pharma-ai-1
+08/09/2021
+3 practical AI/ML applications in pharmaceuticals
+ 
+digital-transformation
+17/05/2021
+What is Digital Transformation?
+Logo
+Clutch
+Clutch
+Cert
+STAY IN TOUCH WITH US:
+LinkedInFacebookTwitterInstagramYouTubeBehanceBribbble 
+Wrocław info@neurosys.com PL:+48 537 900 002 US:+1 (215) 709-0377Białystok bialystok@neurosys.comBerlin berlin@neurosys.com DE:+49 30 311 99 596 PL:+48 537 900 002Stockholm sthlm@neurosys.com SE:+46 8 525 00 888Oslo info@neurosys.no NO:+47 41017126Partners:
+microsoft
+aws_partner
+aws_partner
+ 
+NeuroSYS
+Company
+Career
+Blog
+Free Ebook
+Contact
+Services
+Web application development
+Mobile App Development
+AI/ML consulting services
+Computer vision
+Recommender systems
+Data science
+Natural language processing
+AWS AI/AZURE AI
+Robotic Process Automation
+The internet of things
+DevOps
+ 
+Offshoring
+Nearshoring
+Research and Development
+Cloud computing
+IT and Business consulting
+Product design
+UX/UI Design
+Augmented Reality
+Digital Transformation
+Agile software development
+Quality Assurance
+Technologies
+React Native
+Node.js
+React.js
+Unity/Unity3D
+PHP
+.NET
+PyTorch
+Python
+ © 2023 Copyright NeuroSYS Sp. z o. o. All Rights Reserved.
+TERMS AND CONDITIONS PRIVACY POLICY EUROPEAN FUNDS
+Project and development: NeuroSYS
+arrow footer
