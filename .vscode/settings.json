@@ -18,5 +18,8 @@
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
         "c:\\Users\\david\\Downloads\\jython-installer\\jython.jar"
-    ]
+    ],
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    }
 }
